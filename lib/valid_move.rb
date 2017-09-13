@@ -1,6 +1,6 @@
 # code your #valid_move? method here
 def valid_move?(board, token)
-  if token.between?(0, board.lenght) && position_taken?(board, token) == false
+  if token.between?(0, board.length) && position_taken?(board, token) == false
     true
   else
     false
