@@ -16,6 +16,6 @@ def position_taken?(board, token)
   end
 end
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+# board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-valid_move?(board, 5)
+# valid_move?(board, 5)
