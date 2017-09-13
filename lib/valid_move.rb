@@ -13,3 +13,5 @@ def position_taken?(board, token)
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+valid_move?(board, 5)
